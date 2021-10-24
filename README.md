@@ -1,3 +1,3 @@
-### Tetris in C++
+## Tetris in C++
 
-## Project realised in 2017 for school
+# Project realised in 2017 for school
